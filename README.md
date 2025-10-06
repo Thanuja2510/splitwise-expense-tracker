@@ -29,7 +29,7 @@ This project helps you keep track of shared expenses, add participants to each e
 To try it out locally:
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/Thanuja2510/splitwise-expense-tracker.git
 cd splitwise-expense-tracker
 
@@ -37,14 +37,14 @@ cd splitwise-expense-tracker
 ### Step 2: Setup Backend
 
 1. **Navigate to the backend folder**
-```bash
+
 cd backend
 npm install
 npm run dev
 
 
 2. **setup and run the frontend**
-```bash
+
 cd ../frontend
 npm install
 npm start
